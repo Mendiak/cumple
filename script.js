@@ -9,7 +9,7 @@ function playMusicAndConfetti() {
 function triggerConfetti() {
     jsConfetti.addConfetti({
         emojis: ['🎉', '🎂', '🎁', '🎈', '🍰', '🥳'],
-        emojiSize: 50,
+        emojiSize: 100,
         confettiNumber: 100
     });
 }
